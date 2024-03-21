@@ -2,12 +2,11 @@
 [![NPM](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/LICENSE)
 
 # Sobre o aplicativo
-Teste para a vaga de Engenheiro de Software para a AvenueCode - 20/09/2023
+Exemplo de consumo de 
 
 
-## Update - 03_10_2023
-1.0 para 1.4 , mais info visite as branches
-
+## Update 
+-
 
 ## Imagens da Aplicação
 ![mobile 1](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/1.png)
@@ -16,30 +15,10 @@ Teste para a vaga de Engenheiro de Software para a AvenueCode - 20/09/2023
 ![mobile 4](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/4.png)
 ![mobile 5](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/5.png)
 ![mobile 6](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/6.png)
-![mobile 7](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/7.png)
-![mobile 8](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/8.png)
-![mobile 9](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/9.png)
-![mobile 10](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/10.png)
-![mobile 11](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/11.png)
-![mobile 12](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/12.png)
 
-# * IMPORTANT *
- - No teste foi solicitado o range da api 19 para a última versão a Api 34. Infelizmente o Google "acabou" com o suporte para a a api 19 ano passado
-       então o SDk minimo e máximo  foi: 21 - 33. A api34 ainda não é padrão no Android estúdio.
-   
- - Java. Utilizei o Java JDK 17 com gradle 8.
-    Gradle 4 = Java 8 suporte
-    Gradle 7 = Java 11 suporte
-    Gradle 8 = Java 17 suporte
-    como a ultima versão do gradle so suporta java 17 e é default no Android studio , utilizei esta mesmo. CASO USO VERSÂO ANTERIOR , OCASIONARÁ ERRO.
-    Isto é padrão da google e da Intellij idea , não posso fazer nada fora disso.
-   
-   - Framework/Tecnologias:
-   - 
-     Devido ao tempo curto  de 24 para entregar o teste , os seguintes recusros foram deixados de lado:
-       - Injeção de Dependência  , LiveData/ViewModel , Teste com mock , push notificação (nativo) , Layout mais elaborado , Material Design , Extensions , Util
-       - 
-     Posso implementa estes recursos , caso seja solicitado e eu tenha mais tempo para fazer.  
+
+# Java
+ Gradle 8 = Java 17 suporte
 
 ## SDK
 minSdk: 21 / alvo: 33
@@ -50,20 +29,21 @@ minSdk: 21 / alvo: 33
 - Kotlin - Padrão Google
 
 ### Arquitetura
-- MVVM - Manutenção mais fácil  , mais simples , mais recente.
+- MVVM 
 
 ### Injeção de Dependência
-Não houve uso , dedido ao tempo (24 Horas)
+- Koin
 
 ### Jetpack
-- dataBinding - mais utilizado do que viewBinding
-- AppCompatActivity - Default
+- dataBinding 
+- AppCompatActivity
+- LiveData
 
 ## Teste
 Testado no emulador , Motorola Edge 20 - SO 11
 
 ## Sistema Operacional
-Windows 10
+Windows 11
 
 # Autor
 Renan Costa e Silva
