@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AvenueCodeEventos</string>
+
+    <!-- DEV -->
+    <string name="dev_by">Desenvolvido por : Renan Costa e Silva</string>
+
+    <!-- Imagem -->
+    <string name="imagem_description">imagem app</string>
+
+    <!-- Dialog -->
+    <string name="dialog_mensagem">mensagem</string>
+
+    <!-- Texto -->
+    <string name="tv_exemplo_descricao">Lorem ipsum dolor sit amet. Vel iure consequatur aut fugit perspiciatis est recusandae possimus cum aperiam nihil est recusandae consequatur.
+        Id rerum perspiciatis qui quod earum aut dignissimos dolor. Et nisi dolores eum magni praesentium non nobis amet et praesentium quae et dicta iste et mollitia nobis ab
+        quia maiores.Qui eveniet placeat sed illum numquam qui nesciunt nobis. Qui quod error et obcaecati rerum aut illum sequi quo galisum quia. Ea molestias nesciunt et
+        molestiae eveniet sed iusto tempore aut quas quasi est facilis nulla. Ut molestiae consequatur non voluptas earum eum dolor vitae. Vel doloremque temporibus hic nihil
+        enim et omnis aspernatur. Vel consequatur dolor et doloremque quam hic quam animi et odit magni in accusantium voluptatibus quo tempore omnis aut quia sint.
+        Aut voluptas corrupti in quaerat illo et aliquid nulla ab voluptatem tenetur eos earum dolore quo quibusdam porro. Est deleniti obcaecati et voluptatem numquam
+        est minus rerum?</string>
+
+    <!-- Detalhe -->
+    <string name="detalhe_evento">Evento</string>
+    <string name="detalhe_descricao">Descrição</string>
+    <string name="detalhe_texto">Texto</string>
+    <string name="detalhe_btn_fazercheckin">Fazer Checkin</string>
+
+    <string name="detalhe_evento_preco">R$ 1.99</string>
+    <string name="detalhe_evento_data">12/01/2023</string>
+
+
+    <!-- Dialog -->
+    <string name="dialog_info">AvenueCode Informação</string>
+    <string name="dialog_edit_nome">Digite seu nome</string>
+    <string name="dialog_edit_email">Digite seu e-mail</string>
+    <string name="dialog_btn_enviar">Enviar</string>
+    <string name="dialog_btn_fechar">Fechar</string>
+
+
+    <!-- Recycler -->
+    <string name="recycler_titulo">Título</string>
+    <string name="recycler_descricao">Descrição</string>
+    <string name="recycler_toque_aqui">Toque aqui e saiba mais</string>
+
+</resources>
