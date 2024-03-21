@@ -5,9 +5,6 @@
 Exemplo de consumo de 
 
 
-## Update 
--
-
 ## Imagens da Aplicação
 ![mobile 1](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/1.png)
 ![mobile 2](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/2.png)
